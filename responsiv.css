@@ -1,0 +1,18 @@
+@media all and (max-width: 1024px )
+{
+    #contenu{
+        margin: auto;
+        width: auto;
+    }
+
+    section{
+        display: flex;
+        flex-direction: column;
+        width: auto;
+    }
+
+    #liseret{
+        display: none;
+    }
+    
+}
